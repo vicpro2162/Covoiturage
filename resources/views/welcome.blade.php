@@ -14,7 +14,7 @@
 
         <style>
             /* Styles simplifiés */
-            body { 
+            body {
                 font-family: 'Figtree', sans-serif; 
                 margin: 0; 
                 padding: 0; 
